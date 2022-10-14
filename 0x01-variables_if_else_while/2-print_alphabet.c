@@ -9,7 +9,7 @@ int main(void)
 	char low;
 
 	for (low = 'a'; low <= 'z'; low++)
-		putcher(low);
-		printf("\n");
+		putchar(low);
+	printf('\n');
 	return (0);
 }
