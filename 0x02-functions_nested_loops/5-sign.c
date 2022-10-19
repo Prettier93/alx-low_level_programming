@@ -1,4 +1,4 @@
-#include "main.h"
+#include "stdio.h"
 /**
  * print_sign - returns 1 if n is +, - if n < 0 otherwise 0.
  * @n: interger to be tested
