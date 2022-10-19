@@ -3,11 +3,12 @@
  * main - print_alphabet
  * Return: 0
  */
-void print_alphabet(void)
+int main(void)
 {
-	char c;
+	char letter;
 
-	for (c = 'a'; c <= 'z'; c++)
+	for (letter = 'a'; letter <= 'z'; c++)
 		_putchar(c);
+
 	_putchar('\n');
 }
