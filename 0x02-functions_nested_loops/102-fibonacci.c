@@ -17,7 +17,7 @@ int main(void)
 	{
 		if (i == 49)
 		{
-			printf("%lu", f);
+			printf("%lu", f1);
 		} else
 		{	printf("%lu, ", f1);
 			next = f1 + f2;
