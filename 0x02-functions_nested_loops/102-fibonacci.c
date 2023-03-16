@@ -3,6 +3,7 @@
 /**
  * main - prints first 50 numbers of the fibonacci sequence
  *  Return: 0
+ 3h3h3h3hh3h3h3
  */
 int main(void)
 {
